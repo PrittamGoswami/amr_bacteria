@@ -1,6 +1,7 @@
 # Bacterial AMR Gene Clustering Project
 
-This repository provides the necessary resources to reproduce the analysis of antimicrobial resistance (AMR) gene profiles across bacterial reference genomes.
+## Overview
+In this project, we downloaded all bacterial reference genomes from NCBI and detected the antimicrobial resistance (AMR) genes present in them. We then clustered bacteria based on their similarity in AMR gene composition, aiming to identify bacterial communities with highly similar AMR profiles.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -10,9 +11,6 @@ This repository provides the necessary resources to reproduce the analysis of an
 - [Running the Analysis](#running-the-analysis)
 - [Results](#results)
 - [License](#license)
-
-## Overview
-In this project, we downloaded all bacterial reference genomes from NCBI and detected the antimicrobial resistance (AMR) genes present in them. We then clustered bacteria based on their similarity in AMR gene composition, aiming to identify bacterial communities with highly similar AMR profiles.
 
 ## Prerequisites
 - Python  

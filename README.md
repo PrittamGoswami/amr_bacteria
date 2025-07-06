@@ -55,6 +55,11 @@ jupyter nbconvert --to notebook --execute --inplace Scripts/5.bulk_transcriptomi
 jupyter nbconvert --to notebook --execute --inplace Scripts/communities.ipynb
 ```
 
+## Results
+The clustermap is available at: [link][https://drive.google.com/file/d/1RhwtlLhy3Ry11J4cvgLPSQa6HQVVvrZw/view?usp=sharing]
+The bacterial community plot is available at: [link][https://drive.google.com/file/d/1bNWJ_ZlA9pbfEcDhHUCRhyXs-BgLHRhV/view?usp=sharing]
+
+
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE.
 

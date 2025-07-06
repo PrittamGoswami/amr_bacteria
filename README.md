@@ -49,7 +49,7 @@ python Scripts/rgi_CARD_predict.py
 
 3. Construct the clustermap:
 ```bash
-jupyter nbconvert --to notebook --execute --inplace Scripts/5.bulk_transcriptomic_analysis.ipynb
+jupyter nbconvert --to notebook --execute --inplace Scripts/clustermap.ipynb
 ```
 
 4. Detect bacterial communities based on AMR gene similarity:

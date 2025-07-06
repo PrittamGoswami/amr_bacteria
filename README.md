@@ -38,8 +38,8 @@ conda install seaborn matplotlib numba umap-learn pandas biopython networkx plot
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/your-repo-name.git](https://github.com/PrittamGoswami/amr_bacteria.git
+cd amr_bacteria
 ```
 
 2. Detect AMR genes in the genomes using RGI:

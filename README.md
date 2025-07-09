@@ -32,7 +32,7 @@ Create and activate the Conda environment, then install dependencies:
 ```bash
 conda create -n amr python -y
 conda activate amr
-conda install seaborn matplotlib numba umap-learn pandas biopython networkx plotly scikit-learn ipykernel -y
+conda install seaborn matplotlib numba umap-learn pandas biopython networkx plotly scikit-learn ipykernel google-generativeai -y
 ```
 ## Running the Analysis
 

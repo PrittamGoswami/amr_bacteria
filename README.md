@@ -59,7 +59,7 @@ jupyter nbconvert --to notebook --execute --inplace Scripts/communities.ipynb
 ```
 5. Analyze each bacterial community using Google Gemini:
 ```bash
-jupyter nbconvert --to notebook --execute --inplace Scripts/communities.ipynb
+jupyter nbconvert --to notebook --execute --inplace Scripts/gemini_analysis.ipynb
 ```
 ## Results
 

@@ -1,7 +1,7 @@
 # Clustering Bacteria Based on Antimicrobial Resistance Gene Composition
 
 ## Overview
-In this project, we downloaded all bacterial reference genomes (>5000) from NCBI and detected the antimicrobial resistance (AMR) genes present in them. We then clustered bacteria based on their similarity in AMR gene composition, aiming to identify bacterial communities with highly similar AMR profiles.
+In this project, we downloaded over 5,000 bacterial reference genomes from NCBI and identified the antimicrobial resistance (AMR) genes present in each. We then clustered the bacteria based on similarities in their AMR gene composition to identify communities with highly similar AMR profiles. Finally, we used Google Gemini to automatically analyze each community and infer potential underlying factors contributing to their shared AMR characteristics.
 
 ![image](https://github.com/user-attachments/assets/261cab72-e85f-4ef9-a468-9c347ed6aa47)
 
@@ -18,6 +18,7 @@ In this project, we downloaded all bacterial reference genomes (>5000) from NCBI
 - Python  
 - [Anaconda](https://www.anaconda.com/)  
 - [RGI (Resistance Gene Identifier)](https://github.com/arpcard/rgi)
+- [Gemini API](https://ai.google.dev/)
 
 ## Data Download
 Download all bacterial reference genomes (complete, reference, typical) from NCBI:
@@ -56,11 +57,15 @@ jupyter nbconvert --to notebook --execute --inplace Scripts/clustermap.ipynb
 ```bash
 jupyter nbconvert --to notebook --execute --inplace Scripts/communities.ipynb
 ```
-
+5. Analyze each bacterial community using Google Gemini:
+```bash
+jupyter nbconvert --to notebook --execute --inplace Scripts/communities.ipynb
+```
 ## Results
 The clustermap is available at: [link](https://drive.google.com/file/d/1RhwtlLhy3Ry11J4cvgLPSQa6HQVVvrZw/view?usp=sharing)  
 The bacterial community plot is available at: [link](https://drive.google.com/file/d/1bNWJ_ZlA9pbfEcDhHUCRhyXs-BgLHRhV/view?usp=sharing)
-
+The Gemini Analysis results is available at: [link](https://drive.google.com/file/d/1dKzFOVWIszvDHzqk-dOR0RylKXObiDR8/view?usp=sharing)
+Note: Please submit a request to access the files if you do not have permission.
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE.

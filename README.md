@@ -15,7 +15,7 @@ In this project, we downloaded over 5,000 bacterial reference genomes from NCBI 
 - [License](#license)
 
 ## Prerequisites
-- Python  
+- [Python](https://www.python.org/)  
 - [Anaconda](https://www.anaconda.com/)  
 - [RGI (Resistance Gene Identifier)](https://github.com/arpcard/rgi)
 - [Gemini API](https://ai.google.dev/)

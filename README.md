@@ -62,10 +62,12 @@ jupyter nbconvert --to notebook --execute --inplace Scripts/communities.ipynb
 jupyter nbconvert --to notebook --execute --inplace Scripts/communities.ipynb
 ```
 ## Results
-The clustermap is available at: [link](https://drive.google.com/file/d/1RhwtlLhy3Ry11J4cvgLPSQa6HQVVvrZw/view?usp=sharing)  
-The bacterial community plot is available at: [link](https://drive.google.com/file/d/1bNWJ_ZlA9pbfEcDhHUCRhyXs-BgLHRhV/view?usp=sharing)
-The Gemini Analysis results is available at: [link](https://drive.google.com/file/d/1dKzFOVWIszvDHzqk-dOR0RylKXObiDR8/view?usp=sharing)
-Note: Please submit a request to access the files if you do not have permission.
+
+- **Clustermap**: [View Clustermap](https://drive.google.com/file/d/1RhwtlLhy3Ry11J4cvgLPSQa6HQVVvrZw/view?usp=sharing)  
+- **Bacterial Community Plot**: [View Plot](https://drive.google.com/file/d/1bNWJ_ZlA9pbfEcDhHUCRhyXs-BgLHRhV/view?usp=sharing)  
+- **Gemini Analysis Results**: [View Results](https://drive.google.com/file/d/1dKzFOVWIszvDHzqk-dOR0RylKXObiDR8/view?usp=sharing)  
+
+**Note:** Please submit a request to access the files if you do not have permission.
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE.

@@ -61,13 +61,6 @@ jupyter nbconvert --to notebook --execute --inplace Scripts/communities.ipynb
 ```bash
 jupyter nbconvert --to notebook --execute --inplace Scripts/gemini_analysis.ipynb
 ```
-## Results
-- **RGI Results Combined**: [View .tsv file](https://drive.google.com/file/d/1rIW8GHyHapdU1ydhCAKOZcoHn1Z0ORMA/view?usp=sharing)  
-- **Clustermap**: [View Clustermap](https://drive.google.com/file/d/1RhwtlLhy3Ry11J4cvgLPSQa6HQVVvrZw/view?usp=sharing)  
-- **Bacterial Community Plot**: [View Plot](https://drive.google.com/file/d/1bNWJ_ZlA9pbfEcDhHUCRhyXs-BgLHRhV/view?usp=sharing)  
-- **Gemini Analysis Results**: [View Results](https://drive.google.com/file/d/1dKzFOVWIszvDHzqk-dOR0RylKXObiDR8/view?usp=sharing)  
-
-**Note:** Please submit a request to access the files if you do not have permission.
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE.
